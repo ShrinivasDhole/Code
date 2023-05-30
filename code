@@ -1,0 +1,28 @@
+2A
+git init
+git add ./file_name
+git remote add origin link
+git commit -m "Msg"
+git status
+git push -u origin master
+git pull
+
+2C
+ng new project1
+modify component.html(input , h3 , p)
+modify component.ts
+modify css file
+ng serve -o
+
+3A
+create folder
+npm init
+npm install express --save
+create index.js
+create public folder and create index.html in it
+node index.js
+
+4A
+create index.html
+create a code using jQuery Mobile
+create login.html
