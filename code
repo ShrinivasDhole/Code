@@ -26,3 +26,12 @@ node index.js
 create index.html
 create a code using jQuery Mobile
 create login.html
+
+Cc 
+username - vagrant
+Pass - vagrant
+Ifconfig
+Touch file.txt
+Nano file.txt
+Ctrl+ s , ctrl + x
+Scp file.txt vagrant@inet ip:/home/vagrant 
