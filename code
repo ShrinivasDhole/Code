@@ -43,4 +43,10 @@ sudo apt install openssh- server
 
 2
 google-cloud-sdk\bin\dev_appserver.py filepath
+runtime:python27
+threadsafe:true
+
+handlers:
+-url: /
+ script:filename
 https://github.com/suyash-more/Cloud-Computing-Projects/tree/master/Web-Application-using-Gcloud-SDK
